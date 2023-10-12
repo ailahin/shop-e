@@ -1,0 +1,14 @@
+.cart{
+    background-color: rgb(238, 238, 238);
+    padding: 5px 5px 5px 10px;
+    position:sticky;
+    top:5px
+   
+}
+.total-price{
+    margin-top: 10px;
+    border-top: 2px solid gray;
+    padding-top: 10px;
+    font-weight: bold;
+    
+}
