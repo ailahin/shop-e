@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import Cart from '../Cart/Cart';
-import { CartContext } from '../../App';
+
 
 const Orders = (props) => {
   const {cart}= props
